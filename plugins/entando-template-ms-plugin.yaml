@@ -1,4 +1,4 @@
-image: giulio-cardone/ent-project-template:0.0.1-SNAPSHOT
+image: giuliocardone/ent-project-template:0.0.1-SNAPSHOT
 dbms: none
 ingressPath: "/entando-template-api"
 healthCheckPath: "/actuator/health"
